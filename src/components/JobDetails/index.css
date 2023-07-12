@@ -1,0 +1,46 @@
+.job-details-bg {
+  background-color: #0b2b40;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  min-height: 90vh;
+  padding-left: 270px;
+  padding-right: 270px;
+}
+.available-jobs-list-li {
+  background-color: cadetblue;
+  /* width: 90%; */
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.skills-card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.skills-list-li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.life-at-text {
+  margin-top: 0px;
+  width: 50%;
+  margin-right: 170px;
+}
+.life-at-card {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+.similar-jobs-cardul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}

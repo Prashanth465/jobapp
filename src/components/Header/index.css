@@ -1,0 +1,27 @@
+.header-bg {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background-color: cadetblue;
+  height: 10vh;
+}
+.header-logo {
+  width: 12%;
+}
+.header-options {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+h4 {
+  margin-right: 27px;
+}
+.logout-btn {
+  padding: 9px 17px 9px 17px;
+  background-color: blue;
+  color: azure;
+  border-radius: 4px;
+  border: 0px;
+}
